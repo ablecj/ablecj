@@ -42,5 +42,7 @@ Hello there! I'm Able c j, a passionate MERN stack developer with a knack for cr
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/ablecj/POS_Billing_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ablecj&repo=POS_Billing_App&title_color=22c55e&text_color=84cc16&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/ablecj/recipe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ablecj&repo=recipe&title_color=22c55e&text_color=84cc16&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a></div>
-
-<a href="https://app.daily.dev/ablecj7" margin-top='30px'><img src="https://api.daily.dev/devcards/v2/kfQyvjLuTgPTahfmsym7I.png?type=default&r=o1s" width="356" alt="Able c j's Dev Card"/></a>
+<br /> <br />
+<div align='left' margin='40px'>
+<a href="https://app.daily.dev/ablecj7"><img src="https://api.daily.dev/devcards/v2/kfQyvjLuTgPTahfmsym7I.png?type=default&r=o1s" width="356" alt="Able c j's Dev Card"/></a>
+</div>
